@@ -1,2 +1,1 @@
-# hihi
-hiiiiiiiiiiiiiiiiiiiiii
+VERSION: hihi-1.0
